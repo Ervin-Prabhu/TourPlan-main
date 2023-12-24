@@ -1,0 +1,97 @@
+details>summary#day1, summary#day2, summary#day3, summary#day4, summary#day5, summary#day6, summary#luggage{
+    margin-left:25%;
+    width:55%;
+}
+
+details>ul{
+    list-style-type: none;
+    font-family: Courier;
+    text-align:center;
+    margin-left:0;
+    
+}
+li{
+    color:#d64220;
+    
+}
+header{
+   
+    padding:0 !important;
+}
+h1{
+    font-family: cursive;
+    background-color: #282120;
+    text-align:center;
+    color: #F8EFE4;
+    padding:20px 0px;
+    margin-bottom:0;
+}
+
+.container{
+    background-color:#F8EFE4;
+}
+html{
+    font-size:1em;
+}
+#countdowndiv{
+    font-size: 30px;
+    font-family:Courier;
+    text-align:center;
+}
+
+footer > h5
+{
+    font-size:10px;
+    text-align:center;
+    color:#F0D9D0;
+    background-color:#8E806A;
+    padding:10px 0px;
+    margin:0;
+}
+footer{
+    position:sticky;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+}
+img{
+    width:200px;
+    height:auto;
+}
+
+ 
+
+.sticky-container 
+{
+    position:relative;
+    padding-bottom: 50px;
+}
+  
+  .sticky-this {
+    background-color:#F8EFE4;
+    position:sticky;
+    height:30px;
+    width:auto;
+    top:0%;
+    padding:10;
+    margin:0;
+  }
+summary{
+    font-size:1rem;
+    font-family: cursive;
+}
+details summary {
+    list-style-type: '👇 ';
+}
+
+details[open] summary {
+    list-style-type: '👆 ';
+}
+
+.check{
+    text-align:left;
+    margin-left:25%;
+}
+
+ 
